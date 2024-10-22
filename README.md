@@ -38,7 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk4111&" alt="sk4111" /></p>
 
-# Teacher 
-sk
-# Student
-SG
+
